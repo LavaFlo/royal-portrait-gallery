@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lavaflo.github.io/royal-portrait-gallery/sitemap.xml
